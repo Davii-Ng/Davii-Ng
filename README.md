@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Davii Nguyen from Vietnam<br><br>- 🔭 I’m working as Undergraduate Research Assistant at ERA Lab<br>- 📚 I'm currently learning AI Engineering Basics<br>- ⚡ In my free time I watch F1 and soccer (it's called football!)</p>
+<p align="left">I'm Davii Nguyen from Vietnam<br><br>- 🔭 I’m working as Undergraduate Research Assistant at ERA Lab<br>- 📚 I'm currently learning AI Engineering Basics<br>- ⚡ In my free time I watch F1 and football</p>
 
 ###
 
