@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:Davii-Ng?theme=miku&padding=5&scale=1&align=top&pixelated=0&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:Davii-Ng?theme=miku&padding=5&scale=1&align=top&pixelated=1&darkmode=0"  />
 </div>
 
 ###
