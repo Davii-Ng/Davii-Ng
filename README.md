@@ -30,34 +30,63 @@ I'm an **Undergraduate Research Assistant** at **ERA Lab** based in **Vietnam �
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<details>
+<summary><b>🧑‍💻 Languages</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=black" />
+<img src="https://img.shields.io/badge/C-FF00FF?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=black" />
+</details>
 
-### 🤖 AI / ML Specialized
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+<details>
+<summary><b>🚀 Frameworks & Libraries</b></summary>
+<br>
+<img src="https://img.shields.io/badge/React-FF00FF?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-00FFFF?style=for-the-badge&logo=nextdotjs&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge&logo=nodedotjs&logoColor=black" />
+<img src="https://img.shields.io/badge/Express-FF00FF?style=for-the-badge&logo=express&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-00FFFF?style=for-the-badge&logo=fastapi&logoColor=black" />
+<img src="https://img.shields.io/badge/Flask-39FF14?style=for-the-badge&logo=flask&logoColor=black" />
+</details>
 
-### 🚀 Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
+<details>
+<summary><b>🤖 AI / ML</b></summary>
+<br>
+<img src="https://img.shields.io/badge/PyTorch-FF00FF?style=for-the-badge&logo=pytorch&logoColor=black" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6600?style=for-the-badge&logo=tensorflow&logoColor=black" />
+<img src="https://img.shields.io/badge/scikit--learn-00FFFF?style=for-the-badge&logo=scikitlearn&logoColor=black" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-39FF14?style=for-the-badge&logo=langchain&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenCV-FF00FF?style=for-the-badge&logo=opencv&logoColor=black" />
+<img src="https://img.shields.io/badge/MediaPipe-00FFFF?style=for-the-badge&logo=google&logoColor=black" />
+<img src="https://img.shields.io/badge/ElevenLabs-39FF14?style=for-the-badge&logo=elevenlabs&logoColor=black" />
+</details>
+
+<details>
+<summary><b>🛠️ Tools</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Git-FF6600?style=for-the-badge&logo=git&logoColor=black" />
+<img src="https://img.shields.io/badge/VS%20Code-00FFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+<img src="https://img.shields.io/badge/Jupyter-FF6600?style=for-the-badge&logo=jupyter&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-FF00FF?style=for-the-badge&logo=postman&logoColor=black" />
+<img src="https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-00FFFF?style=for-the-badge&logo=docker&logoColor=black" />
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-FF00FF?style=for-the-badge&logo=postgresql&logoColor=black" />
+<img src="https://img.shields.io/badge/SQLite-00FFFF?style=for-the-badge&logo=sqlite&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase-FFD700?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-39FF14?style=for-the-badge&logo=supabase&logoColor=black" />
+<img src="https://img.shields.io/badge/Neo4j-FF00FF?style=for-the-badge&logo=neo4j&logoColor=black" />
+</details>
+
 
 ---
 
