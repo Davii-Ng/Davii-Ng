@@ -5,9 +5,8 @@
 
   <h1>Hi, I'm <span style="color: #60F7EF;">Davii Nguyen</span> 👋</h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=32&letterSpacing=2px&duration=2500&pause=1000&color=60F7EF&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer+%F0%9F%A4%96;Researcher+@+ERA+Lab;Welcome+to+my+Neural+Network+%F0%9F%A7%A0;Let's+build+the+future!+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Play&weight=100&size=38&letterSpacing=1px&duration=2000&pause=700&color=60F7EF&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer+%F0%9F%A4%96;Researcher+@+ERA+Lab;Welcome+to+my+page+%F0%9F%A7%A0;Let's+build+the+future!+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
   <img src="https://count.getloli.com/@:Davii-Ng?theme=miku&padding=5&scale=1&align=top&pixelated=1&darkmode=0" />
 
