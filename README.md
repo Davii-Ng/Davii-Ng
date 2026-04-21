@@ -5,7 +5,6 @@
 
   <h1>Hi, I'm <span style="color: #60F7EF;">Davii Nguyen</span> 👋</h1>
 
-
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Play&weight=100&size=38&letterSpacing=1px&duration=2000&pause=700&color=60F7EF&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer+%F0%9F%A4%96;Researcher+@+ERA+Lab;Welcome+to+my+page+%F0%9F%A7%A0;Let's+build+the+future!+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
   <img src="https://count.getloli.com/@:Davii-Ng?theme=miku&padding=5&scale=1&align=top&pixelated=1&darkmode=0" />
@@ -34,58 +33,57 @@ I'm an **Undergraduate Research Assistant** at **ERA Lab** based in **Vietnam �
 <details>
 <summary><b>🧑‍💻 Languages</b></summary>
 <br>
-<img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=black" />
-<img src="https://img.shields.io/badge/C-FF00FF?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </details>
 
 <details>
 <summary><b>🚀 Frameworks & Libraries</b></summary>
 <br>
-<img src="https://img.shields.io/badge/React-FF00FF?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-00FFFF?style=for-the-badge&logo=nextdotjs&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge&logo=nodedotjs&logoColor=black" />
-<img src="https://img.shields.io/badge/Express-FF00FF?style=for-the-badge&logo=express&logoColor=black" />
-<img src="https://img.shields.io/badge/FastAPI-00FFFF?style=for-the-badge&logo=fastapi&logoColor=black" />
-<img src="https://img.shields.io/badge/Flask-39FF14?style=for-the-badge&logo=flask&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </details>
 
 <details>
 <summary><b>🤖 AI / ML</b></summary>
 <br>
-<img src="https://img.shields.io/badge/PyTorch-FF00FF?style=for-the-badge&logo=pytorch&logoColor=black" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6600?style=for-the-badge&logo=tensorflow&logoColor=black" />
-<img src="https://img.shields.io/badge/scikit--learn-00FFFF?style=for-the-badge&logo=scikitlearn&logoColor=black" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-39FF14?style=for-the-badge&logo=langchain&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenCV-FF00FF?style=for-the-badge&logo=opencv&logoColor=black" />
-<img src="https://img.shields.io/badge/MediaPipe-00FFFF?style=for-the-badge&logo=google&logoColor=black" />
-<img src="https://img.shields.io/badge/ElevenLabs-39FF14?style=for-the-badge&logo=elevenlabs&logoColor=black" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white" />
 </details>
 
 <details>
 <summary><b>🛠️ Tools</b></summary>
 <br>
-<img src="https://img.shields.io/badge/Git-FF6600?style=for-the-badge&logo=git&logoColor=black" />
-<img src="https://img.shields.io/badge/VS%20Code-00FFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
-<img src="https://img.shields.io/badge/Jupyter-FF6600?style=for-the-badge&logo=jupyter&logoColor=black" />
-<img src="https://img.shields.io/badge/Postman-FF00FF?style=for-the-badge&logo=postman&logoColor=black" />
-<img src="https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-00FFFF?style=for-the-badge&logo=docker&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </details>
 
 <details>
 <summary><b>🗄️ Databases</b></summary>
 <br>
-<img src="https://img.shields.io/badge/PostgreSQL-FF00FF?style=for-the-badge&logo=postgresql&logoColor=black" />
-<img src="https://img.shields.io/badge/SQLite-00FFFF?style=for-the-badge&logo=sqlite&logoColor=black" />
-<img src="https://img.shields.io/badge/Firebase-FFD700?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Supabase-39FF14?style=for-the-badge&logo=supabase&logoColor=black" />
-<img src="https://img.shields.io/badge/Neo4j-FF00FF?style=for-the-badge&logo=neo4j&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" />
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
 </details>
-
 
 ---
 
