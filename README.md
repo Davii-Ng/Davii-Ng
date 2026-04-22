@@ -20,11 +20,11 @@
 
 ## 🧠 About Me
 
-I'm an **Undergraduate Research Assistant** at **ERA Lab** based in **Vietnam 🇻🇳**. My focus is bridging the gap between core AI research and production-grade AI Engineering. 
+I'm an **Undergraduate Research Assistant** at **ERA Lab** based in **Tampa, FL**. My focus is bridging the gap between core AI research and production-grade AI Engineering. 
 
 - 🔭 **Working on:** Scaling intelligent systems and autonomous agents.
-- 📚 **Learning:** Advanced Deep Learning architectures and LLM Fine-tuning.
-- ⚡ **Fun Fact:** I'm equally passionate about **F1 aerodynamics** and **Neural Network patterns**.
+- 📚 **Learning:** Advanced RAG Architectures and Multi-Agent systems.
+- ⚡ **Fun Fact:** Off the screen I am a **McLaren** and **Atheltico Madrid** diehard.
 
 ---
 
