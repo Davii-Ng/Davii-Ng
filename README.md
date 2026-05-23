@@ -90,15 +90,19 @@ I'm an **Undergraduate Research Assistant** at **ERA Lab** based in **Tampa, FL*
 ## 📈 Vital Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Davii-Ng&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Davii-Ng&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
-<div align = "center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davii-Ng&theme=react)
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Davii-Ng/Davii-Ng/main/profile-summary-card-output/react/0-profile-details.svg" alt="Profile Summary Card" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Davii | Professional AI Portfolio</sub>
+
+<p> Credits: <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a></p>
+
 </div>
