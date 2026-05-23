@@ -93,7 +93,9 @@ I'm an **Undergraduate Research Assistant** at **ERA Lab** based in **Tampa, FL*
   <img src="https://streak-stats.demolab.com?user=Davii-Ng&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
+<div align = "center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davii-Ng&theme=react)
+</div>
 
 ---
 
