@@ -1,89 +1,30 @@
-<div align="center">
-  
-  <!-- Hero Section -->
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHUxd3lhMG51ZWR4eTZvdTZ1bGZqZGtkNHBwb3NzemM5cHJtbmdsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" />
+# Hi, I'm David 👋
 
-  <h1>Hi, I'm <span style="color: #60F7EF;">Davii Nguyen</span> 👋</h1>
+I'm a CS Honors student at USF, and I build AI that holds up beyond the demo, mostly multimodal retrieval systems and practical AI tools. 
 
+### What I'm doing
 
+- **Research Assistant** at USF's ERA Lab, working on retrieval-augmented models that help low-cost robots decide how to move
+- **Software Lead** at Google Developer Group @ USF, where I run RAG workshops and mentor student teams
+- Ex-**AI Engineer Intern** at NashTech, where I built a pipeline to test an internal AI coding agent and cut a 4-hour test run down to 30 minutes
+
+### Some things I've built
+
+- [**SoulSync**](https://github.com/Davii-Ng/SoulSync): a voice companion for conversations that need extra care
+- [**DJ Music Recommender**](https://github.com/Davii-Ng/final-applied-AI-project): give it a mood, and it builds a setlist to match
+- [**spidr**](https://github.com/Davii-Ng/spidr): find answers in a site's docs without digging through every page
+- **Vision-Guided Robotic Arm**: move your hand, and the arm moves with you
+
+More experiments, including a GPT built from scratch, are in my repos.
+
+### Tools I've used
+
+Python, PyTorch, LangGraph, LangChain, Google ADK, FastAPI, Docker, Neo4j, Pinecone, Postgres, OpenCV
+
+Outside tech, I follow football for the passion and the patterns behind the play. McLaren and Atlético Madrid, always.
+
+Always happy to chat: [Website](https://davii-ng.github.io/) · [LinkedIn](https://www.linkedin.com/in/minh-duong-nguyen-/) · [Email](mailto:nminhd98@gmail.com)
+
+<p align="center">
   <img src="https://count.getloli.com/@:Davii-Ng?theme=miku&padding=5&scale=1&align=top&pixelated=1&darkmode=0" />
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/minh-duong-nguyen-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:nminhd98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/Davii-Ng"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
-
-  <hr width="50%" />
-</div>
-
-## 🧠 About Me
-
-I'm an **Undergraduate Research Assistant** at **ERA Lab** based in **Tampa, FL**. My focus is bridging the gap between core AI research and production-grade AI Engineering. 
-
-- 🔭 **Working on:** Scaling intelligent systems and autonomous agents.
-- 📚 **Learning:** Advanced RAG Architectures and Multi-Agent systems.
-- ⚡ **Fun Fact:** Off the screen I am a **McLaren** and **Atheltico Madrid** diehard.
-
----
-
-## 🛠️ Tech Stack
-
-<details>
-<summary><b>🧑‍💻 Languages</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</details>
-
-<details>
-<summary><b>🚀 Frameworks & Libraries</b></summary>
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</details>
-
-<details>
-<summary><b>🤖 AI / ML</b></summary>
-<br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white" />
-</details>
-
-<details>
-<summary><b>🛠️ Tools</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</details>
-
-<details>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" />
-<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-</details>
-
----
-
-
+</p>
